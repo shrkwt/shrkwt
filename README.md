@@ -1,6 +1,6 @@
 <img alt="Intro-Image" src="https://cdn.jsdelivr.net/gh/gaminglnk/gaminglnk@main/header.png" />
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://cdn.jsdelivr.net/gh/gaminglnk/gaminglnk/images/laptop.gif" width="50"></h2>
 
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
