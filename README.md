@@ -1,5 +1,7 @@
 <img alt="Intro-Image" src="https://cdn.jsdelivr.net/gh/gaminglnk/gaminglnk@main/header.png" />
 
+![LoliCount](https://count.getloli.com/get/@gaminglnk)
+
 <h2 align="center">Technology Stack <img src="https://cdn.jsdelivr.net/gh/gaminglnk/gaminglnk/images/laptop.gif" width="50"></h2>
 
 <p align="center">
@@ -18,25 +20,17 @@
 <br>
 
 <h2 align="left">✨About me </h2>
-As an undergraduate, <code>web programming</code>, web scraping, and music are some of my major passions.
-<br>Currently attempting to build aesthetically pleasing web applications using data from many free public APIs.
-<br>Since I was a little child, I've been interested in technology, and I purchased my first computer in 2018.
-<br>I enjoyed experimenting with various services and applications, which ultimately piqued my interest in programming and blogging.
-<br>I have a lot of ideas, and I'm prepared to learn programming to make them come true.
+As a student, I like <code>frontend development</code> and data scraping.
+<br>Currently trying to learning some javascript frameworks.
+<br>I've always been fascinated by technology, and purchased my first computer in 2018.
+<br>I enjoyed experimenting with various devices which ultimately piqued my interest in programming.
 <br>
 
-<h2 align="left">🔗Connect with me </h2>
-<a href="https://www.youtube.com/@lnkisloyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/gaminglnk/gaminglnk/images/youtube.svg" alt="youtube" height="30" width="40" /></a>
-<a href="https://instagram.com/lnkisloyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/gaminglnk/gaminglnk/images/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://codepen.com/lnkisloyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/gaminglnk/gaminglnk/images/codepen.svg" alt="codepen" height="30" width="40" /></a>
-<br>
-
-<h2 align="left">📊Top Languages </h2>
+<h2 align="left">📉Top Languages </h2>
 <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_title=true&username=gaminglnk&layout=compact&card_width=425&theme=dark" />
 
 <h2 align="left">👩‍💻What I Use</h2>
-<samp>These are a bunch of services which I use :</samp>
-<p><br><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&amp;logo=blogger&amp;logoColor=white" alt="Blogger">
+<p><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&amp;logo=blogger&amp;logoColor=white" alt="Blogger">
 <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&amp;logo=Microsoft-edge&amp;logoColor=white" alt="Edge">
 <img src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&amp;logo=Mega&amp;logoColor=white" alt="Mega.nz">
 <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&amp;logo=codepen&amp;logoColor=black" alt="CodePen">
