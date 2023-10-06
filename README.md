@@ -20,17 +20,13 @@
 <br>
 
 <h2 align="left">✨About me </h2>
-As a student, I like <code>frontend development</code> and data scraping.
-<br>Currently trying to learning some javascript frameworks.
-<br>I've always been fascinated by technology, and purchased my first computer in 2018.
-<br>I enjoyed experimenting with various devices which ultimately piqued my interest in programming.
-<br>
+As a student, I find the fusion of science and computers truly captivating. Exploring the world of front-end development has allowed me to craft digital experiences, but when I step away from the screen, I take solace in the enchanting world of music. Join me on a journey where technology and melodies come together in life's beautiful symphony.
 
 <h2 align="left">📉Top Languages </h2>
 <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_title=true&username=shrkwt&layout=compact&card_width=425&theme=dark" />
 
 <h2 align="left">👩‍💻What I Use</h2>
-<p><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&amp;logo=blogger&amp;logoColor=white" alt="Blogger">
+<p>
 <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&amp;logo=Microsoft-edge&amp;logoColor=white" alt="Edge">
 <img src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&amp;logo=Mega&amp;logoColor=white" alt="Mega.nz">
 <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&amp;logo=codepen&amp;logoColor=black" alt="CodePen">
