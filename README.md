@@ -1,4 +1,4 @@
-<img alt="Intro-Image" src="https://cdn.jsdelivr.net/gh/shrkwt/shrkwt@main/header.png" />
+<img alt="Intro-Image" src="https://cdn.jsdelivr.net/gh/shrkwt/shrkwt@main/mcbg.jpeg" />
 
 ![LoliCount](https://count.getloli.com/get/@shrkwt)
 
