@@ -1,8 +1,8 @@
-<img alt="Intro-Image" src="https://cdn.jsdelivr.net/gh/gaminglnk/gaminglnk@main/header.png" />
+<img alt="Intro-Image" src="https://cdn.jsdelivr.net/gh/shrkwt/shrkwt@main/header.png" />
 
-![LoliCount](https://count.getloli.com/get/@gaminglnk)
+![LoliCount](https://count.getloli.com/get/@shrkwt)
 
-<h2 align="center">Technology Stack <img src="https://cdn.jsdelivr.net/gh/gaminglnk/gaminglnk/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://cdn.jsdelivr.net/gh/shrkwt/shrkwt/images/laptop.gif" width="50"></h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -27,7 +27,7 @@ As a student, I like <code>frontend development</code> and data scraping.
 <br>
 
 <h2 align="left">📉Top Languages </h2>
-<img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_title=true&username=gaminglnk&layout=compact&card_width=425&theme=dark" />
+<img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_title=true&username=shrkwt&layout=compact&card_width=425&theme=dark" />
 
 <h2 align="left">👩‍💻What I Use</h2>
 <p><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&amp;logo=blogger&amp;logoColor=white" alt="Blogger">
